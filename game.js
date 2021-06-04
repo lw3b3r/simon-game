@@ -93,6 +93,7 @@ function startOver() {
 	gameStarted = false;
 	level = 0;
 	gamePattern = [];
+	userPattern = [];
 }
 
 // Trigger game start
